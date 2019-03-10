@@ -1,1 +1,1 @@
-# socialloot
+# pintest
