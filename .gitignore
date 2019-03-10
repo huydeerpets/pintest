@@ -1,0 +1,11 @@
+*.exe
+*.exe~
+*.sqlite
+*.zip
+socialloot
+tmp/*
+.vscode/*
+swagger/*
+*.tmp
+*.pprof
+*.memprof
