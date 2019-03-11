@@ -3,7 +3,7 @@ package lib
 import (
 	"errors"
 
-	"github.com/KeKsBoTer/socialloot/models"
+	"github.com/huydeerpets/socialloot/models"
 	"github.com/astaxie/beego"
 )
 

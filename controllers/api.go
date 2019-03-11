@@ -8,8 +8,8 @@ import (
 
 	"github.com/astaxie/beego"
 
-	"github.com/KeKsBoTer/socialloot/lib"
-	"github.com/KeKsBoTer/socialloot/models"
+	"github.com/huydeerpets/socialloot/lib"
+	"github.com/huydeerpets/socialloot/models"
 )
 
 // This is the socialloot api.

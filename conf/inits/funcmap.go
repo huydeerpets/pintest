@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/KeKsBoTer/socialloot/lib"
+	"github.com/huydeerpets/socialloot/lib"
 
 	"github.com/astaxie/beego"
 )

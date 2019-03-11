@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "github.com/KeKsBoTer/socialloot/conf/inits"
-	_ "github.com/KeKsBoTer/socialloot/routers"
+	_ "github.com/huydeerpets/socialloot/conf/inits"
+	_ "github.com/huydeerpets/socialloot/routers"
 	"github.com/astaxie/beego"
 )
 

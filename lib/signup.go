@@ -6,7 +6,7 @@ import (
 
 	"github.com/astaxie/beego"
 
-	"github.com/KeKsBoTer/socialloot/models"
+	"github.com/huydeerpets/socialloot/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

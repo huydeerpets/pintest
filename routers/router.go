@@ -5,7 +5,7 @@
 package routers
 
 import (
-	ctl "github.com/KeKsBoTer/socialloot/controllers"
+	ctl "github.com/huydeerpets/socialloot/controllers"
 	"github.com/astaxie/beego"
 )
 

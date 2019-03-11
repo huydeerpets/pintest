@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/KeKsBoTer/socialloot/models"
+	"github.com/huydeerpets/socialloot/models"
 )
 
 // SubmitController handles new posts and topics
