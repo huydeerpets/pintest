@@ -9,7 +9,7 @@ import (
 
 	"github.com/astaxie/beego"
 
-	"github.com/huydeerpets/socialloot/models"
+	"github.com/huydeerpets/pintest/models"
 )
 
 // Submit creates a new post and adds it to the database.

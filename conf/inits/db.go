@@ -3,7 +3,7 @@ package inits
 import (
 	"time"
 
-	_ "github.com/huydeerpets/socialloot/models"
+	_ "github.com/huydeerpets/pintest/models"
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"

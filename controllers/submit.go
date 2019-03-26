@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/huydeerpets/socialloot/models"
+	"github.com/huydeerpets/pintest/models"
 )
 
 // SubmitController handles new posts and topics
@@ -14,7 +14,7 @@ type SubmitController struct {
 // Submit serves submit post page
 func (c *SubmitController) Submit() {
 	c.TplName = "pages/submit/submit.tpl"
-	c.Data["Title"] = "Submit to Socialloot"
+	c.Data["Title"] = "Submit to pintest"
 
 	submitType := c.GetString("type")
 	if submitType != "text" && submitType != "link" && submitType != "image" {

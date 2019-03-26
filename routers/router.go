@@ -1,11 +1,11 @@
 // @APIVersion 1.0.0
-// @Title socialloot webpage
-// @Description socialloot webpage
+// @Title pintest webpage
+// @Description pintest webpage
 
 package routers
 
 import (
-	ctl "github.com/huydeerpets/socialloot/controllers"
+	ctl "github.com/huydeerpets/pintest/controllers"
 	"github.com/astaxie/beego"
 )
 

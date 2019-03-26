@@ -5,7 +5,7 @@ import (
 
 	"github.com/astaxie/beego"
 
-	"github.com/huydeerpets/socialloot/models"
+	"github.com/huydeerpets/pintest/models"
 )
 
 // UserController serves the user page

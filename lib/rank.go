@@ -5,7 +5,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/huydeerpets/socialloot/models"
+	"github.com/huydeerpets/pintest/models"
 )
 
 // SortByRank a list of post by their rank

@@ -10,7 +10,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/huydeerpets/socialloot/models"
+	"github.com/huydeerpets/pintest/models"
 	"github.com/astaxie/beego"
 	"github.com/nfnt/resize"
 )

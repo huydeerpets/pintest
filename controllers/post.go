@@ -3,8 +3,8 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/huydeerpets/socialloot/lib"
-	"github.com/huydeerpets/socialloot/models"
+	"github.com/huydeerpets/pintest/lib"
+	"github.com/huydeerpets/pintest/models"
 	"github.com/astaxie/beego"
 )
 

@@ -3,7 +3,7 @@ package controllers
 import (
 	"strconv"
 
-	"github.com/huydeerpets/socialloot/models"
+	"github.com/huydeerpets/pintest/models"
 )
 
 // ImageController serves images via http

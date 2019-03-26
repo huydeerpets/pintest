@@ -6,7 +6,7 @@ import (
 
 	"golang.org/x/crypto/bcrypt"
 
-	"github.com/huydeerpets/socialloot/models"
+	"github.com/huydeerpets/pintest/models"
 )
 
 // Authenticate checks if the given user credentials are valid

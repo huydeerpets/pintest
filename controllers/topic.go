@@ -3,8 +3,8 @@ package controllers
 import (
 	"log"
 
-	"github.com/huydeerpets/socialloot/lib"
-	"github.com/huydeerpets/socialloot/models"
+	"github.com/huydeerpets/pintest/lib"
+	"github.com/huydeerpets/pintest/models"
 )
 
 // TopicController serves topic page
