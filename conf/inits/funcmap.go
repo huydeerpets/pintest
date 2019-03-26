@@ -27,8 +27,8 @@ func init() {
 	})
 
 	// changes/adds the HTTP GET parameter in a URL
-	// e.g. ChangeParam "localhost:8080/?test=2" "test" "new_value"
-	// 		=> localhost:8080/?test=new_value
+	// e.g. ChangeParam "localhost:8181/?test=2" "test" "new_value"
+	// 		=> localhost:8181/?test=new_value
 	beego.AddFuncMap("ChangeParam", func(urlPath, key, value string) string {
 		urlParsed, err := url.Parse(urlPath)
 		if err != nil {
@@ -41,7 +41,7 @@ func init() {
 	})
 
 	// extracts HTTP GET paramter from URL
-	// e.g. GetParam "localhost:8080/?test=1234" "test"
+	// e.g. GetParam "localhost:8181/?test=1234" "test"
 	//		=> test
 	beego.AddFuncMap("GetParam", func(urlPath, key string) string {
 		urlParsed, err := url.Parse(urlPath)
